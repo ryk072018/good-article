@@ -1,3 +1,4 @@
+## 整理看过的好文章
 1. [费曼学习技巧](https://hackernoon.com/the-feynman-learning-technique-how-to-learn-anything-well-v9x3w7f)：如何学好任何东西
 2. [如何清洗的思考](https://psyche.co/guides/how-to-think-clearly-to-improve-understanding-and-communication)
 3. [如何为自己思考？](http://paulgraham.com/think.html)

@@ -34,3 +34,4 @@
 33. [敏捷已死，麦肯锡刚刚杀死了它](https://terem.tech/agile-is-dead/)
 34. [未学的东西](https://scattered-thoughts.net/writing/things-unlearned/)
 35. [信心游戏](https://justindomke.wordpress.com/2021/10/11/confidence-games-1-2/)
+36. [我是如何学会编程的](https://danluu.com/learning-to-program/)

@@ -36,3 +36,5 @@
 35. [信心游戏](https://justindomke.wordpress.com/2021/10/11/confidence-games-1-2/)
 36. [我是如何学会编程的](https://danluu.com/learning-to-program/)
 37. [比晶体管快1000倍的新型光开关](https://spectrum.ieee.org/optical-switch-1000x-faster-transistors)
+38. [程序员的情绪](https://blog.sidebits.tech/programmers-emotions/)
+

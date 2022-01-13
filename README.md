@@ -38,5 +38,4 @@
 37. [比晶体管快1000倍的新型光开关](https://spectrum.ieee.org/optical-switch-1000x-faster-transistors)
 38. [程序员的情绪](https://blog.sidebits.tech/programmers-emotions/)
 39. [技术面试内幕指南](https://bartwronski.com/2022/01/04/insider-guide-to-tech-interviews/)
-
-
+40. [如何每年轻松阅读50多本书](https://www.ramoswriter.com/how-to-read-more/)

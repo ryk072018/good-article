@@ -40,3 +40,4 @@
 39. [技术面试内幕指南](https://bartwronski.com/2022/01/04/insider-guide-to-tech-interviews/)
 40. [如何每年轻松阅读50多本书](https://www.ramoswriter.com/how-to-read-more/)
 41. [在工作的同时完成计算机科学非全日制硕士学位](https://alexanderell.is/posts/mscs/)
+42. [编程中的认知负荷](https://www.dabapps.com/blog/cognitive-load-programming/)
